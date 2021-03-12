@@ -6,6 +6,7 @@ int main()
   printf("First time I update this file\n");
   
   // Get a new branch
+  printf("This is new branch\n");
   
   return 0;
 }
