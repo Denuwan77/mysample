@@ -3,5 +3,7 @@ int main()
 {
   printf("Hello Github\n");
   
+  printf("First time I update this file\n");
+  
   return 0;
 }
